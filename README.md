@@ -1,6 +1,10 @@
 # Propuesta para blog de software libre y de codigo abierto, y/o linux
 Creado domingo 20 septiembre 2020 por @UlisesAlexanderAM
 
+Participantes/Autores:
+*Ulises Alexander Argüelles Monjaraz @UlisesAlexanderAM
+*Angel Mora @angel-mora
+
 Contenido para el sitio:
 
 * Anuncios de nuevas versiones de algunas distribuciones GNU/Linux
