@@ -1,26 +1,27 @@
-# Propuesta para blog de software libre y de código abierto, y/o Linux
-Creado domingo 20 septiembre 2020 por @UlisesAlexanderAM
+# Propuesta para blog de software libre y de código abierto, y/o GNU/Linux
 
 Participantes/Autores:
-*Ulises Alexander Argüelles Monjaraz @UlisesAlexanderAM
-*Angel Mora @angel-mora
+
+* Ulises Alexander Argüelles Monjaraz @UlisesAlexanderAM
+* Angel Mora @angel-mora
 
 Contenido para el sitio:
 
-* Anuncios de nuevas versiones de algunas distribuciones GNU/Linux
-* Anuncios de nuevas versiones de software libre
-* Anuncios de eventos del entorno software libre, linux
-* Tips de uso de utilidades en linux
-* Tips comandos basicos de la terminal
-* Tutoriales de instalacion, eliminacion y actualizacion de software (terminal,gui, snap,appimage, flatpak)
-* Noticias del entorno linux y de software libre
-* Alternativas a software libre tanto en linux como windows, teniendo como prioridad linux
-* Reseñas de libros sobre software libre, programacion y linux
-* Recomendaciones de software libre
-* Nuestras experiencias con linux y el software libre.
-* Traducciones de articulos y noticias de itsfoss (Licencia Internacional Creative Commons Attribution-ShareAlike 4.0.)
-* Videoreseñas
-* Videos
+* Anuncios de nuevas versiones de algunas distribuciones GNU/Linux.
+* Anuncios de nuevas versiones de software libre.
+* Anuncios de eventos del entorno software libre, GNU/Linux.
+* Tips de uso de utilidades en GNU/Linux.
+* Tips comandos básicos de la terminal.
+* Tutoriales de instalación, eliminación y actualización de software (terminal,gui, snap,appimage, flatpak).
+* Noticias del entorno GNU/Linux y de software libre.
+* Alternativas a software libre tanto en GNU/Linux como en Windows y macOS, teniendo como prioridad GNU/Linux.
+* Software libre para dispositivos mobiles.
+* Reseñas de libros sobre software libre, programación y GNU/Linux.
+* Recomendaciones de software libre.
+* Nuestras experiencias con GNU/Linux y el software libre.
+* Traducciones de artículos y noticias de itsfoss (Licencia Internacional Creative Commons Attribution-ShareAlike 4.0.).
+* Videoreseñas.
+* Videos.
 
 
 Ingresos:
@@ -39,14 +40,13 @@ Egresos:
 * Publicidad
 
 
-Paginas de inspiracion:
+Paginas de inspiración:
 
 * <https://itsfoss.com>
 * <https://www.phoronix.com/scan.php?page=home>
 
 
 
-Creacion y administracion:
+Creación y administración:
 
-* Uso de ghost (cms open-source con costo para el hosteo por ellos) u otro cms
-
+* Uso de ghost (CMS open-source con costo para el hosteo por ellos) u otro CMS
