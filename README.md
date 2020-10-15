@@ -1,4 +1,4 @@
-# Propuesta para blog de software libre y de codigo abierto, y/o linux
+# Propuesta para blog de software libre y de código abierto, y/o Linux
 Creado domingo 20 septiembre 2020 por @UlisesAlexanderAM
 
 Participantes/Autores:
@@ -25,7 +25,7 @@ Contenido para el sitio:
 
 Ingresos:
 
-* Publiciad
+* Publicidad
 * Tips/propinas (paypal, ko-fi, etc.)
 * ¿Patreon?
 * Youtube
