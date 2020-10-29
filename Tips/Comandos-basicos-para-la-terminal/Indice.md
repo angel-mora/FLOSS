@@ -1,0 +1,3 @@
+# Indice Tips: Comandos básicos para la terminal
+
+Aquí están listadas las publicaciones del tema 'Tips: Comandos básicos para la terminal' :
