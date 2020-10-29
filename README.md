@@ -1,14 +1,17 @@
 # FLOSS en español
 
-Repositorio para contenido sobre FLOSS (Free/Libre Open Source Software por sus siglas en ingles) o en Software Libre y de Código Abierto, en español.  Personalmente me (Ulises) gusta mas la segunda denominación ya que en ingles tiende a haber mas confusion.
+Repositorio para contenido sobre FLOSS (Free/Libre Open Source Software por sus siglas en ingles) o en Software Libre y de Código Abierto, en español.  Personalmente(Ulises) me gusta mas la segunda denominación ya que en ingles tiende a haber mas confusion.
 El contenido esta dividido en:
-* Anuncios
-* Noticias
-* [Nuestras aventuras alrededor del software libre y GNU-Linux (solo pongo GNU-Linux debido a que los autores solo tenemos experiencia en ese SO)](https://github.com/angel-mora/FLOSS/tree/main/Nuestras%20aventuras%20alrededor%20del%20software%20libre%20y%20GNU-Linux)
-* Recomendaciones
-* Tips
-* Traducciones del ingles al español
-* Reseñas
+* [Anuncios](Anuncios/Indice.md)
+* [Noticias](Noticias/Indice.md)
+* [Nuestras aventuras alrededor del software libre y GNU-Linux (solo pongo GNU-Linux debido a que los autores solo tenemos experiencia en ese SO)](Nuestras%20aventuras%20alrededor%20del%20software%20libre%20y%20GNU-Linux/Indice.md)
+* [Recomendaciones](Recomendaciones/Indice.md)
+* [Tips](Tips/Indice.md)
+* [Traducciones del ingles al español](Traducciones-del-ingles-al-español/Indice.md)
+* [Reseñas](Reseñas/Indice.md)
+* [Tutoriales](Tutoriales/Indice.md)
+
+La propuesta inicial de este proyecto lo pueden encontrar [aquí](propuesta.md).
 
 ### Participantes/Autores:
 
