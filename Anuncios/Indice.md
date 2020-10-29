@@ -2,8 +2,8 @@
 
 Aquí están listadas las publicaciones del tema 'Anuncios' :
 
-* [Distribuciones](/Distribuciones) 
-* [Eventos](/Eventos)
-* [Software Libre](/Software-Libre) 
+* [Distribuciones](Anuncios/Distribuciones/Indice.md) 
+* [Eventos](Anuncios/Eventos/Indice.md)
+* [Software Libre](Anuncios/Software-Libre/Indice.md) 
 
 
