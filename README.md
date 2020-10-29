@@ -4,13 +4,13 @@ Repositorio para contenido sobre FLOSS (Free/Libre Open Source Software por sus 
 El contenido esta dividido en:
 * Anuncios
 * Noticias
-* Nuestras aventuras alrededor del software libre y GNU-Linux (solo pongo GNU-Linux debido a que los autores solo tenemos experiencia en ese SO)
+* [Nuestras aventuras alrededor del software libre y GNU-Linux (solo pongo GNU-Linux debido a que los autores solo tenemos experiencia en ese SO)](https://github.com/angel-mora/FLOSS/tree/main/Nuestras%20aventuras%20alrededor%20del%20software%20libre%20y%20GNU-Linux)
 * Recomendaciones
 * Tips
 * Traducciones del ingles al español
 * Reseñas
 
-Participantes/Autores:
+### Participantes/Autores:
 
 * Ulises Alexander Argüelles Monjaraz [@UlisesAlexanderAM](https://github.com/UlisesAlexanderAM/)
 * Angel Mora [@angel-mora](https://github.com/angel-mora/)
