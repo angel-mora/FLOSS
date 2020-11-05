@@ -7,7 +7,7 @@ Hola mi nombre es Ulises Alexander Arguelles(Argüelles), Monjaraz. Soy estudian
 
 Mi primer acercamiento a GNU-Linux fue en el bachillerato, en la clase de informática un día armamos una computadora y como paso final instalamos Windows y Fedora en la maquina, en ese entonces yo no sabia que era el software libre.
 
-### Disidía  
+### Desidia  
 
 Al llegar a la UNAM hubo un semestre que lleve una materia llamada "Programación avanzada y métodos numéricos" la primera vez que me inscribí, el profesor nos había pedido que instaláramos alguna distribución Linux, pero yo no sabia mucho sobre Linux y se me hizo muy complicado el investigar sobre ello e instalar Linux, para trabajar con gcc y la programación en Linux. Al final del día abandone la clase y no tuve necesidad de pensar en cambiar o instalar GNU-Linux por un buen tiempo.
 
