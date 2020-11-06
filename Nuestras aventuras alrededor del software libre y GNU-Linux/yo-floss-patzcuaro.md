@@ -1,5 +1,7 @@
 # Yo, FLOSS y Pátzcuaro
 
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Esta obra de <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Ulises Alexander AM</span> está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional</a>.
+
 ### Breviario de mi
 Hola mi nombre es Ulises Alexander Arguelles(Argüelles), Monjaraz. Soy estudiante de ingeniería de software en la Universidad Veracruzana (UV), antes estudiaba ingeniería en computación en la Universidad Nacional Autónoma de México (UNAM), aunque deje mis estudios ahí. Me entusiasma el software libre, la cultura libre entre otras cosas. Me gusta el anime, la cultura japones, la música, literatura. He participado como voluntario en algunos eventos como el Foro Mundial de la Bicicleta, Creativa Fest, Ecofest, entre otros.
 
