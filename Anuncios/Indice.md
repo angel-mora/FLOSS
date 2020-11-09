@@ -6,3 +6,5 @@ Aquí están listadas las publicaciones del tema 'Anuncios' :
 * [Eventos](Eventos/Indice.md)
 * [Software Libre](Software-Libre/Indice.md) 
 
+* [Regresar a pagina principal](/README.MD)
+
