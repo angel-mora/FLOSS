@@ -3,5 +3,5 @@
 Aquí están listadas las publicaciones del tema 'Tips: Comandos básicos para la terminal' :
   
   
-[Regresar a tips](/Tips/Indice.md)
+[Regresar a tips](/Tips/Indice.md)  
 [Regresar a pagina principal](/README.md)
