@@ -1,52 +1,24 @@
-# Propuesta para blog de software libre y de código abierto, y/o GNU/Linux
+# FLOSS en español
 
-Participantes/Autores:
+Repositorio para contenido sobre FLOSS (Free/Libre Open Source Software por sus siglas en ingles) o en Software Libre y de Código Abierto, en español.  Personalmente(Ulises) me gusta mas la segunda denominación ya que en ingles tiende a haber mas confusion.
+El contenido esta dividido en:
+* [Anuncios](Anuncios/Indice.md)
+* [Noticias](Noticias/Indice.md)
+* [Nuestras aventuras alrededor del software libre y GNU-Linux (solo pongo GNU-Linux debido a que los autores solo tenemos experiencia en ese SO)](Nuestras%20aventuras%20alrededor%20del%20software%20libre%20y%20GNU-Linux/Indice.md)
+* [Recomendaciones](Recomendaciones/Indice.md)
+* [Tips](Tips/Indice.md)
+* [Traducciones del ingles al español](Traducciones-del-ingles-al-español/Indice.md)
+* [Reseñas](Reseñas/Indice.md)
+* [Tutoriales](Tutoriales/Indice.md)
 
-* Ulises Alexander Argüelles Monjaraz @UlisesAlexanderAM
-* Angel Mora @angel-mora
+La propuesta inicial de este proyecto lo pueden encontrar [aquí](propuesta.md).
 
-Contenido para el sitio:
+### Participantes/Autores:
 
-* Anuncios de nuevas versiones de algunas distribuciones GNU/Linux.
-* Anuncios de nuevas versiones de software libre.
-* Anuncios de eventos del entorno software libre, GNU/Linux.
-* Tips de uso de utilidades en GNU/Linux.
-* Tips comandos básicos de la terminal.
-* Tutoriales de instalación, eliminación y actualización de software (terminal,gui, snap,appimage, flatpak).
-* Noticias del entorno GNU/Linux y de software libre.
-* Alternativas a software libre tanto en GNU/Linux como en Windows y macOS, teniendo como prioridad GNU/Linux.
-* Software libre para dispositivos mobiles.
-* Reseñas de libros sobre software libre, programación y GNU/Linux.
-* Recomendaciones de software libre.
-* Nuestras experiencias con GNU/Linux y el software libre.
-* Traducciones de artículos y noticias de itsfoss (Licencia Internacional Creative Commons Attribution-ShareAlike 4.0.).
-* Videoreseñas.
-* Videos.
+* Ulises Alexander Argüelles Monjaraz [@UlisesAlexanderAM](https://github.com/UlisesAlexanderAM/)
+* Angel Mora [@angel-mora](https://github.com/angel-mora/)
+    
+## Licencias
 
-
-Ingresos:
-
-* Publicidad
-* Tips/propinas (paypal, ko-fi, etc.)
-* ¿Patreon?
-* Youtube
-* Links de afiliados
-
-
-Egresos:
-
-* Servidor
-* Empleados
-* Publicidad
-
-
-Paginas de inspiración:
-
-* <https://itsfoss.com>
-* <https://www.phoronix.com/scan.php?page=home>
-
-
-
-Creación y administración:
-
-* Uso de ghost (CMS open-source con costo para el hosteo por ellos) u otro CMS
+<p xmlns:dct="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#" class="license-text">El contenido esta licenciado bajo <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0.<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" /></a></p>
+El codigo para darle formato y mostrarlo esta licenciado bajo [GNU GPLv3](https://github.com/angel-mora/FLOSS/blob/main/LICENSE).
