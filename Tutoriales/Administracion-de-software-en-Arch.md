@@ -4,11 +4,13 @@
 
 Hoy explicare como podemos administrar nuestros programas en Arch y distribuciones basadas en Arch, como Manjaro, el SO que uso, desde nuestra terminal o consola.
 
-Empezando por los comandos en pacman, después pamac, comando desarrollado por y para Manjaro; terminando con yay, un ayudante para la AUR (Arch User Repository).
+Empezando por los comandos en pacman, después pamac, comando desarrollado por y para Manjaro; terminando con yay, un ayudante para el AUR (Arch User Repository).
 
 Los lectores que no sepan que es AUR, les comparto lo que la [wiki de Arch](https://wiki.archlinux.org/) nos dice sobre AUR[[1]](../Tutoriales//Administracion-de-software-en-Arch.md#fuentes-de-información):
 
 > Arch User Repository (AUR) es un repositorio promovido por los usuarios de la comunidad de Arch. Este contiene descripciones de los paquetes (PKG*BUILD) que le permiten compilar un paquete desde el código fuente con makepkg y luego instalarlo a través de pacman.
+
+**Nota:** Arch no recomienda usar ayudantes que automaticen la instalación de paquetes del AUR como `yay`, ya que al ser paquetes mantenidos por los usuarios uno debería revisar los PKG*BUILD y ver que es lo que hace e instala el paquete, lo bueno de `yay` es que nos permite ver estos archivos y modificarlos si uno lo configura para hacerlo.
 
 ## Contenido
 
@@ -22,7 +24,7 @@ Los lectores que no sepan que es AUR, les comparto lo que la [wiki de Arch](http
 
 ## Búsqueda
 
-En caso de que los resultados sean demasiado y no se puedan ver por completo o no quieren que se queden ahi en su terminal pueden agregar `| less` al final de los siguientes comandos.
+En caso de que los resultados sean demasiado y no se puedan ver por completo o no quieren que se queden ahí en su terminal pueden agregar `| less` al final de los siguientes comandos.
 
 ### pacman
 
@@ -127,7 +129,7 @@ Los comandos para `yay` son iguales a los de pacman pero sin sudo:
 
 `yay -Syu nombre_del_paquete_1 nombre_del_paquete_2 ...`
 
-`yay` nos proporciona una manera de instalar paquetes, dados terminos de busqueda nos presentara los paquetes que se nos listaria con `yay -Ss [termino(s) de búsqueda]` y nos pide seleccionar que paquetes deseamos instalar. El formato de la instrucción seria:
+`yay` nos proporciona una manera de instalar paquetes, dados términos de búsqueda nos presentara los paquetes que se nos listaría con `yay -Ss [termino(s) de búsqueda]` y nos pide seleccionar que paquetes deseamos instalar. El formato de la instrucción seria:
 
 `yay [termino(s) de búsqueda]`
 
