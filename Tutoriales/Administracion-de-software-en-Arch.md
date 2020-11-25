@@ -1,17 +1,17 @@
 # Administración de software en distribuciones basadas en Arch:  Desde la consola
 ### Por: Ulises Alexander Argüelles Monjaraz
-  
-  
+
+
 Hoy explicare como podemos administrar nuestros programas en Arch y distribuciones basadas en Arch, como Manjaro, el SO que uso, desde nuestra terminal o consola.
- 
+
 Empezando por los comandos en pacman, después pamac, comando desarrollado por y para Manjaro; terminando con yay, un ayudante para la AUR (Arch User Repository).
 
-Los lectores que no sepan que es AUR, les comparto lo que la [wiki de Arch](https://wiki.archlinux.org/) nos dice sobre AUR[[1]](../Administracion-de-software-en-Arch.md#fuentes-de-información):
+Los lectores que no sepan que es AUR, les comparto lo que la [wiki de Arch](https://wiki.archlinux.org/) nos dice sobre AUR[[1]](../Tutoriales//Administracion-de-software-en-Arch.md#fuentes-de-información):
 
-> Arch User Repository (AUR) es un repositorio promovido por los usuarios de la comunidad de Arch. Este contiene descripciones de los paquetes (PKG*BUILD) que le permiten compilar un paquete desde el código fuente con makepkg y luego instalarlo a través de pacman. 
+> Arch User Repository (AUR) es un repositorio promovido por los usuarios de la comunidad de Arch. Este contiene descripciones de los paquetes (PKG*BUILD) que le permiten compilar un paquete desde el código fuente con makepkg y luego instalarlo a través de pacman.
 
 
-## Búsqueda 
+## Búsqueda
 
 En caso de que los resultados sean demasiado y no se puedan ver por completo o no quieren que se queden ahi en su terminal pueden agregar `| less` al final de los siguientes comandos.
 
@@ -39,7 +39,7 @@ Aquí los paréntesis indicar que se debe sustituir por lo indicado entre parén
 
 ### pamac
 
-Para `pamac` el comando para buscar paquetes tanto en los repositorios oficiales como en AUR es: 
+Para `pamac` el comando para buscar paquetes tanto en los repositorios oficiales como en AUR es:
 
 `pamac search [termino(s) de búsqueda]`
 
@@ -72,7 +72,7 @@ Aquí los paréntesis indicar que se debe sustituir por lo indicado entre parén
 ![](../Recursos/Screenshot_yay_2.png)
 
 
-## Instalación 
+## Instalación
 
 A la hora de instalar un programa hay que prestar atención a los mensajes que nos muestra el programa, ya que puede indicarnos acciones que hay que hacer de manera manual.
 
@@ -82,7 +82,7 @@ Para instalar un paquete o varios paquetes usando `pacman` el comando seria:
 
 `sudo pacman -S nombre_del_paquete_1 nombre_del_paquete_2 ...`
 
-Aunque esto es correcto, Manjaro[[2]](../Administracion-de-software-en-Arch.md#fuentes-de-información) y Arch[[3]](../Administracion-de-software-en-Arch.md#fuentes-de-información) recomienda usar el siguiente comando, ya que el anterior puede llevar a un estado de actualización parcial:
+Aunque esto es correcto, Manjaro[[2]](../Tutoriales//Administracion-de-software-en-Arch.md#fuentes-de-información) y Arch[[3]](../Tutoriales//Administracion-de-software-en-Arch.md#fuentes-de-información) recomienda usar el siguiente comando, ya que el anterior puede llevar a un estado de actualización parcial:
 
 `sudo pacman -Syu nombre_del_paquete_1 nombre_del_paquete_2 ...`
 
@@ -120,7 +120,7 @@ Los comandos para `yay` son iguales a los de pacman pero sin sudo:
 
 `yay` nos proporciona una manera de instalar paquetes, dados terminos de busqueda nos presentara los paquetes que se nos listaria con `yay -Ss [termino(s) de búsqueda]` y nos pide seleccionar que paquetes deseamos instalar. El formato de la instrucción seria:
 
-`yay [termino(s) de búsqueda]` 
+`yay [termino(s) de búsqueda]`
 
 
 ## Desinstalación
@@ -185,7 +185,7 @@ Para verificar si hay actualizaciones disponibles usa el siguiente comando:
 
 Para actualizar los paquetes instalados escribe los siguiente en la terminal:
 
-`pamac upgrade -a` 
+`pamac upgrade -a`
 
 ### yay
 
@@ -312,9 +312,9 @@ En caso de querer forzar un paquete instalado explicitamente a dependencia hay q
 
 `sudo pacman -D --asdeps nombre_del_paquete`
 
-**Nota:** no es recomendable usar las opciones `--asexplicit`, `--asdeps` durante una actualización es decir, **no** usar asi: `sudo pacman -Syu --asexplicit nombre_del_paquete` o 
+**Nota:** no es recomendable usar las opciones `--asexplicit`, `--asdeps` durante una actualización es decir, **no** usar asi: `sudo pacman -Syu --asexplicit nombre_del_paquete` o
  `sudo pacman -Syu --asdeps nombre_del_paquete` ya que esto cambiara la razon de instalacion del paquete instalado y de los paquetes actualizados.
- 
+
 ### pamac
 
 Si quieres listar todos los paquetes instalados en tu sistema:
