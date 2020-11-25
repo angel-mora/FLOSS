@@ -6,7 +6,7 @@ Hoy explicare como podemos administrar nuestros programas en Arch y distribucion
  
 Empezando por los comandos en pacman, después pamac, comando desarrollado por y para Manjaro; terminando con yay, un ayudante para la AUR (Arch User Repository).
 
-Los lectores que no sepan que es AUR, les comparto lo que la [wiki de Arch](https://wiki.archlinux.org/) nos dice sobre AUR[[1]](../Administracion-de-software-en-Arch##Fuentes de Información):
+Los lectores que no sepan que es AUR, les comparto lo que la [wiki de Arch](https://wiki.archlinux.org/) nos dice sobre AUR[[1]](../Administracion-de-software-en-Arch.md#fuentes-de-información):
 
 > Arch User Repository (AUR) es un repositorio promovido por los usuarios de la comunidad de Arch. Este contiene descripciones de los paquetes (PKG*BUILD) que le permiten compilar un paquete desde el código fuente con makepkg y luego instalarlo a través de pacman. 
 
@@ -82,7 +82,7 @@ Para instalar un paquete o varios paquetes usando `pacman` el comando seria:
 
 `sudo pacman -S nombre_del_paquete_1 nombre_del_paquete_2 ...`
 
-Aunque esto es correcto, Manjaro[[2]](## Fuentes de Información) y Arch[3](## Fuentes de Información) recomienda usar el siguiente comando, ya que el anterior puede llevar a un estado de actualización parcial:
+Aunque esto es correcto, Manjaro[[2]](../Administracion-de-software-en-Arch.md#fuentes-de-información) y Arch[[3]](../Administracion-de-software-en-Arch.md#fuentes-de-información) recomienda usar el siguiente comando, ya que el anterior puede llevar a un estado de actualización parcial:
 
 `sudo pacman -Syu nombre_del_paquete_1 nombre_del_paquete_2 ...`
 
