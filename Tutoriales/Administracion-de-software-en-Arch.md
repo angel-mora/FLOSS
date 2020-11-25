@@ -10,6 +10,15 @@ Los lectores que no sepan que es AUR, les comparto lo que la [wiki de Arch](http
 
 > Arch User Repository (AUR) es un repositorio promovido por los usuarios de la comunidad de Arch. Este contiene descripciones de los paquetes (PKG*BUILD) que le permiten compilar un paquete desde el código fuente con makepkg y luego instalarlo a través de pacman.
 
+## Contenido
+
+* [Búsqueda](../Tutoriales//Administracion-de-software-en-Arch.md#búsqueda)
+* [Instalación](../Tutoriales//Administracion-de-software-en-Arch.md#instalación)
+* [Desinstalación](../Tutoriales//Administracion-de-software-en-Arch.md#desinstalación)
+* [Actualización](../Tutoriales//Administracion-de-software-en-Arch.md#actualización)
+* [Huérfanos](../Tutoriales//Administracion-de-software-en-Arch.md#huérfanos-paquetes-ya-no-necesarios-como-dependencias)
+* [Cache](../Tutoriales//Administracion-de-software-en-Arch.md#cache)
+* [Otros](../Tutoriales//Administracion-de-software-en-Arch.md#otros)
 
 ## Búsqueda
 
